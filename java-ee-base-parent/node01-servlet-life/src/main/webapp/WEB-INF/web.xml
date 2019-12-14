@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns="http://java.sun.com/xml/ns/javaee"
+         xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd"
+         id="WebApp_ID" version="2.5">
+
+    <display-name>frame_servlet</display-name>
+    <context-param>
+        <param-name>encoding</param-name>
+        <param-value>UTF-8</param-value>
+    </context-param>
+    <!-- 参数配置 -->
+    <context-param>
+        <param-name>my-name</param-name>
+        <param-value>cicada</param-value>
+    </context-param>
+    <context-param>
+        <param-name>time</param-name>
+        <param-value>2019-11-13</param-value>
+    </context-param>
+
+    <!-- Servlet配置 -->
+    <!-- 请求：http://localhost:6003/servletOneImpl -->
+    <servlet>
+        <servlet-name>servletOneImpl</servlet-name>
+        <servlet-class>com.node01.servlet.impl.ServletOneImpl</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>servletOneImpl</servlet-name>
+        <url-pattern>/servletOneImpl</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>servletTwoImpl</servlet-name>
+        <servlet-class>com.node01.servlet.impl.ServletTwoImpl</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>servletTwoImpl</servlet-name>
+        <url-pattern>/servletTwoImpl</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>servletThreeImpl</servlet-name>
+        <servlet-class>com.node01.servlet.impl.ServletThreeImpl</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>servletThreeImpl</servlet-name>
+        <url-pattern>/servletThreeImpl</url-pattern>
+    </servlet-mapping>
+
+</web-app>

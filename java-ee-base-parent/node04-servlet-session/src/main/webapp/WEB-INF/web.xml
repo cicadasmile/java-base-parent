@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns="http://java.sun.com/xml/ns/javaee"
+         xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_3_0.xsd"
+         id="WebApp_ID" version="3.0">
+
+    <display-name>cicada_servlet</display-name>
+    <context-param>
+        <param-name>encoding</param-name>
+        <param-value>UTF-8</param-value>
+    </context-param>
+
+    <servlet>
+        <servlet-name>cookieServletOne</servlet-name>
+        <servlet-class>com.node04.servlet.impl.CookieServletOne</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>cookieServletOne</servlet-name>
+        <url-pattern>/cookieServletOne</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>cookieServletTwo</servlet-name>
+        <servlet-class>com.node04.servlet.impl.CookieServletTwo</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>cookieServletTwo</servlet-name>
+        <url-pattern>/cookieServletTwo</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>sessionServletOne</servlet-name>
+        <servlet-class>com.node04.servlet.impl.SessionServletOne</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>sessionServletOne</servlet-name>
+        <url-pattern>/sessionServletOne</url-pattern>
+    </servlet-mapping>
+</web-app>

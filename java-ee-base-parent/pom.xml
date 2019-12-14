@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <artifactId>java-base-parent</artifactId>
+        <groupId>com.java.parent</groupId>
+        <version>1.0-SNAPSHOT</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>com.java.ee.parent</groupId>
+    <artifactId>java-ee-base-parent</artifactId>
+    <packaging>pom</packaging>
+    <modules>
+        <module>node01-servlet-life</module>
+        <module>node02-servlet-api</module>
+        <module>node03-servlet-http</module>
+        <module>node04-servlet-session</module>
+    </modules>
+
+</project>

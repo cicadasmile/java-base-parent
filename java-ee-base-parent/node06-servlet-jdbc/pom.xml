@@ -20,7 +20,7 @@
         <servlet-api.version>2.5</servlet-api.version>
         <jsp-api.version>2.0</jsp-api.version>
         <mysql.version>5.1.39</mysql.version>
-        <c3p0.version>0.9.5.2</c3p0.version>
+        <c3p0.version>0.9.5.4</c3p0.version>
     </properties>
 
     <dependencies>

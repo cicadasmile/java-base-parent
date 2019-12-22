@@ -16,6 +16,8 @@
         <module>node02-servlet-api</module>
         <module>node03-servlet-http</module>
         <module>node04-servlet-session</module>
+        <module>node05-servlet-filter</module>
+        <module>node06-servlet-jdbc</module>
     </modules>
 
 </project>

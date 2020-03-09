@@ -1,4 +1,10 @@
-# 参考文章
+## 参考文章
+
+### JavaSE基础篇
+
+[Java基础篇(01)：基本数据类型，核心点整理](https://mp.weixin.qq.com/s?__biz=MzU4Njg0MzYwNw==&mid=2247484444&idx=2&sn=c5590ea2d71a0a358d2f9cd96c3c2b19&chksm=fdf450a4ca83d9b2383032c1aa354a59a0ca6d52981f2a58d6d3142bde7ed1605b4fcde3b4d9&token=1530600379&lang=zh_CN#rd)<br/>
+
+### JavaEE基础
 
 [JavaEE基础(01)：Servlet实现方式，生命周期执行过程](https://mp.weixin.qq.com/s?__biz=MzU4Njg0MzYwNw==&mid=2247484304&idx=1&sn=dd6b6852e35031dd07f70d441f3ddc85&chksm=fdf45728ca83de3e158597030cf46b1677eccf533f9e1412690cd64b0ec0cce544711ceabddb&token=1248678182&lang=zh_CN#rd)<br/>
 [JavaEE基础(02)：Servlet核心API用法详解](https://mp.weixin.qq.com/s?__biz=MzU4Njg0MzYwNw==&mid=2247484309&idx=1&sn=fc8237aef2f246f85b978561f4b37e1e&chksm=fdf4572dca83de3b8affdf4a9a8c8b3c18e4c5203c3e663e0bfaeb53788d3e2d26fa829bb8c6&token=1248678182&lang=zh_CN#rd)<br/>

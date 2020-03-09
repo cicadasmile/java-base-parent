@@ -12,5 +12,12 @@
     <artifactId>java-se-base-parent</artifactId>
     <packaging>pom</packaging>
 
+    <modules>
+        <!-- 基础数据类型 -->
+        <module>model-data-type</module>
+        <!-- 多线程并发 -->
+        <module>model-multy-thread</module>
+    </modules>
+
 
 </project>

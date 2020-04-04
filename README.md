@@ -1,23 +1,25 @@
 ## 参考文章
 
-### JavaSE基础篇
+### JavaSE基础
 
-[Java基础篇(01)：基本数据类型，核心点整理](https://mp.weixin.qq.com/s?__biz=MzU4Njg0MzYwNw==&mid=2247484444&idx=2&sn=c5590ea2d71a0a358d2f9cd96c3c2b19&chksm=fdf450a4ca83d9b2383032c1aa354a59a0ca6d52981f2a58d6d3142bde7ed1605b4fcde3b4d9&token=1530600379&lang=zh_CN#rd)<br/>
-[Java基础篇(02)：特殊的String类，和相关扩展API](https://mp.weixin.qq.com/s?__biz=MzU4Njg0MzYwNw==&mid=2247484444&idx=1&sn=2cd50529d3d6ff97a9efce6158891c7c&chksm=fdf450a4ca83d9b29f3edf3c4999885278f7e9130a71b1d2f7f54057dcb07a3b95964547e862&token=1530600379&lang=zh_CN#rd)<br/>
-
-### JavaSE并发篇
-
-[Java并发编程(01)：线程的创建方式，状态周期管理](https://mp.weixin.qq.com/s?__biz=MzU4Njg0MzYwNw==&mid=2247484431&idx=1&sn=9bdac46fa8309a7618542471c8256b8f&chksm=fdf450b7ca83d9a17a3615c5380a163b93b68a7f2c506e533eec4921b87e8386c65dd629a159&token=1530600379&lang=zh_CN#rd)<br/>
+|序号|文章标题|
+|:---:|:---|
+|A01|[Java基础：基本数据类型，核心点整理](https://mp.weixin.qq.com/s/YwrBptAd2SrWefFIiN86Yw)|
+|A02|[Java基础：特殊的String类，和相关扩展API](https://mp.weixin.qq.com/s/HI6yklzR118G2Y-rJzl47g)|
+|B01|[Java并发：线程的创建方式，状态周期管理](https://mp.weixin.qq.com/s/h0zuh364It-fDtQyYdzIwA)|
+|B02|[Java并发：线程核心机制，基础概念扩展](https://mp.weixin.qq.com/s/nU5tbKuAiDf_LDu-8A4Etg)|
+|B03|[Java并发：多线程并发访问，同步控制](https://mp.weixin.qq.com/s/xWhd3vgYPNp-Mm2lJpmFmA)|
 
 ### JavaEE基础
 
-[JavaEE基础(01)：Servlet实现方式，生命周期执行过程](https://mp.weixin.qq.com/s?__biz=MzU4Njg0MzYwNw==&mid=2247484304&idx=1&sn=dd6b6852e35031dd07f70d441f3ddc85&chksm=fdf45728ca83de3e158597030cf46b1677eccf533f9e1412690cd64b0ec0cce544711ceabddb&token=1248678182&lang=zh_CN#rd)<br/>
-[JavaEE基础(02)：Servlet核心API用法详解](https://mp.weixin.qq.com/s?__biz=MzU4Njg0MzYwNw==&mid=2247484309&idx=1&sn=fc8237aef2f246f85b978561f4b37e1e&chksm=fdf4572dca83de3b8affdf4a9a8c8b3c18e4c5203c3e663e0bfaeb53788d3e2d26fa829bb8c6&token=1248678182&lang=zh_CN#rd)<br/>
-[JavaEE基础(03)：Http请求详解，握手挥手流程简介](https://mp.weixin.qq.com/s?__biz=MzU4Njg0MzYwNw==&mid=2247484318&idx=1&sn=125780e20ada2f3d1451a1563a1c1e6f&chksm=fdf45726ca83de30adc5956a16d16151825b37c0adf5350214899ade39fef47f17ee35b2390d&token=1248678182&lang=zh_CN#rd)<br/>
-[JavaEE基础(04)：会话跟踪技术，Session和Cookie详解](https://mp.weixin.qq.com/s?__biz=MzU4Njg0MzYwNw==&mid=2247484325&idx=1&sn=a3c96cff45fac355d947dff9e7f5b9bf&chksm=fdf4571dca83de0b590bbc2864561c33b4b7af512d5b0dce86eca83170a23f007a1786d22f8c&token=362281359&lang=zh_CN#rd)<br/>
-[JavaEE基础(05)：过滤器、监听器、拦截器，应用详解](https://mp.weixin.qq.com/s?__biz=MzU4Njg0MzYwNw==&mid=2247484330&idx=1&sn=2754da84764ba5db8bccb1112881af3e&chksm=fdf45712ca83de04848d00451ce473275514ec8e60786c6f8db355190b0360463eb10da6c94c&token=362281359&lang=zh_CN#rd)<br/>
-[JavaEE基础(06)：Servlet整合C3P0数据库连接池](https://mp.weixin.qq.com/s?__biz=MzU4Njg0MzYwNw==&mid=2247484335&idx=1&sn=6755f997766ceb8b81c83201ba101553&chksm=fdf45717ca83de01b39de0f3e5ca15607d12960cf5f9e2df391bc6c6af0808018dd2b1969a73&token=362281359&lang=zh_CN#rd)<br/>
-
+|序号|文章标题|
+|:---:|:---|
+|01|[Servlet实现方式，生命周期执行过程](https://mp.weixin.qq.com/s/0YMhMX4ET1BxyGJi01grnw)|
+|02|[Servlet核心API用法详解](https://mp.weixin.qq.com/s/gC9xknmXLvC7WlwEpPSWXQ)|
+|03|[Http请求详解，握手挥手流程简介](https://mp.weixin.qq.com/s/IhrIdiLu2kxe2npgix8KTg)|
+|04|[会话跟踪技术，Session和Cookie详解](https://mp.weixin.qq.com/s/8cEgI49Tbb4ezxZEvEq8tg)|
+|05|[过滤器、监听器、拦截器，应用详解](https://mp.weixin.qq.com/s/CVhLyZ12BbT9kaclSpIrnw)|
+|06|[Servlet整合C3P0数据库连接池](https://mp.weixin.qq.com/s/I-KB6vAEwVMBAVAjEP2RmQ)|
 持续更新中...
 
 ## 项目简介
@@ -30,14 +32,12 @@ Java基础类型，容器，并发，IO流，面向对象，Web编程等代码�
 
 ## 推荐项目
 
-|项目名称|GitHub地址|GitEE地址|推荐指数|
-|:---|:---|:---|:---|
-|Java描述常用设计模式,算法,数据结构|[GitHub·点这里](https://github.com/cicadasmile/model-arithmetic-parent)|[GitEE·点这里](https://gitee.com/cicadasmile/model-arithmetic-parent)|☆☆☆☆☆|
-|Java基础、进阶、并发、面向对象、Web开发|[GitHub·点这里](https://github.com/cicadasmile/java-base-parent)|[GitEE·点这里](https://gitee.com/cicadasmile/java-base-parent)|☆☆☆☆|
-|SpringCloud微服务架构实战综合案例|[GitHub·点这里](https://github.com/cicadasmile/husky-spring-cloud)|[GitEE·点这里](https://gitee.com/cicadasmile/husky-spring-cloud)|☆☆☆☆☆|
-|SpringCloud微服务基础组件案例详解|[GitHub·点这里](https://github.com/cicadasmile/spring-cloud-base)|[GitEE·点这里](https://gitee.com/cicadasmile/spring-cloud-base)|☆☆☆|
-|SpringCloud实现分库分表模式下数据库实时扩容|[GitHub·点这里](https://github.com/cicadasmile/cloud-shard-jdbc)|[GitEE·点这里](https://gitee.com/cicadasmile/cloud-shard-jdbc)|☆☆☆☆☆|
-|SpringBoot框架基础应用入门到进阶|[GitHub·点这里](https://github.com/cicadasmile/spring-boot-base)|[GitEE·点这里](https://gitee.com/cicadasmile/spring-boot-base)|☆☆☆☆|
-|SpringBoot框架整合开发常用中间件|[GitHub·点这里](https://github.com/cicadasmile/middle-ware-parent)|[GitEE·点这里](https://gitee.com/cicadasmile/middle-ware-parent)|☆☆☆☆☆|
-|Spring+Mvc框架基础案例详解|[GitHub·点这里](https://github.com/cicadasmile/spring-mvc-parent)|[GitEE·点这里](https://gitee.com/cicadasmile/spring-mvc-parent)|☆☆|
-|Linux系统基础、运维,常用操作积累|[GitHub·点这里](https://github.com/cicadasmile/linux-system-base)|[GitEE·点这里](https://gitee.com/cicadasmile/linux-system-base)|☆☆☆|
+|序号|项目名称|GitHub地址|GitEE地址|推荐指数|
+|:---|:---|:---|:---|:---|
+|01|Java描述设计模式,算法,数据结构|[GitHub·点这里](https://github.com/cicadasmile/model-arithmetic-parent)|[GitEE·点这里](https://gitee.com/cicadasmile/model-arithmetic-parent)|☆☆☆☆☆|
+|02|Java基础、并发、面向对象、Web开发|[GitHub·点这里](https://github.com/cicadasmile/java-base-parent)|[GitEE·点这里](https://gitee.com/cicadasmile/java-base-parent)|☆☆☆☆|
+|03|SpringCloud微服务基础组件案例详解|[GitHub·点这里](https://github.com/cicadasmile/spring-cloud-base)|[GitEE·点这里](https://gitee.com/cicadasmile/spring-cloud-base)|☆☆☆|
+|04|SpringCloud微服务架构实战综合案例|[GitHub·点这里](https://github.com/cicadasmile/husky-spring-cloud)|[GitEE·点这里](https://gitee.com/cicadasmile/husky-spring-cloud)|☆☆☆☆☆|
+|05|SpringBoot框架基础应用入门到进阶|[GitHub·点这里](https://github.com/cicadasmile/spring-boot-base)|[GitEE·点这里](https://gitee.com/cicadasmile/spring-boot-base)|☆☆☆☆|
+|06|SpringBoot框架整合开发常用中间件|[GitHub·点这里](https://github.com/cicadasmile/middle-ware-parent)|[GitEE·点这里](https://gitee.com/cicadasmile/middle-ware-parent)|☆☆☆☆☆|
+|07|数据管理、分布式、架构设计基础案例|[GitHub·点这里](https://github.com/cicadasmile/data-manage-parent)|[GitEE·点这里](https://gitee.com/cicadasmile/data-manage-parent)|☆☆☆☆☆|

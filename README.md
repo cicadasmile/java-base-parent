@@ -10,6 +10,7 @@
 |B02|[Java并发：线程核心机制，基础概念扩展](https://mp.weixin.qq.com/s/nU5tbKuAiDf_LDu-8A4Etg)|
 |B03|[Java并发：多线程并发访问，同步控制](https://mp.weixin.qq.com/s/xWhd3vgYPNp-Mm2lJpmFmA)|
 |B04|[Java并发：线程间通信，等待/通知机制](https://mp.weixin.qq.com/s/WWbVjvkEqpddx605me9E-A)|
+|B05|[Java并发：悲观锁和乐观锁机制](https://mp.weixin.qq.com/s/t6NshbuKwULPeLhTIhvmIg)|
 
 ### JavaEE基础
 

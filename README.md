@@ -1,18 +1,23 @@
 ## 参考文章
 
-### JavaSE基础
+### JavaSE基础篇
 
 |序号|文章标题|
 |:---:|:---|
-|A01|[Java基础：基本数据类型，核心点整理](https://mp.weixin.qq.com/s/YwrBptAd2SrWefFIiN86Yw)|
-|A02|[Java基础：特殊的String类，和相关扩展API](https://mp.weixin.qq.com/s/HI6yklzR118G2Y-rJzl47g)|
-|B01|[Java并发：线程的创建方式，状态周期管理](https://mp.weixin.qq.com/s/h0zuh364It-fDtQyYdzIwA)|
-|B02|[Java并发：线程核心机制，基础概念扩展](https://mp.weixin.qq.com/s/nU5tbKuAiDf_LDu-8A4Etg)|
-|B03|[Java并发：多线程并发访问，同步控制](https://mp.weixin.qq.com/s/xWhd3vgYPNp-Mm2lJpmFmA)|
-|B04|[Java并发：线程间通信，等待/通知机制](https://mp.weixin.qq.com/s/WWbVjvkEqpddx605me9E-A)|
-|B05|[Java并发：悲观锁和乐观锁机制](https://mp.weixin.qq.com/s/t6NshbuKwULPeLhTIhvmIg)|
+|01|[Java基础：基本数据类型，核心点整理](https://mp.weixin.qq.com/s/YwrBptAd2SrWefFIiN86Yw)|
+|02|[Java基础：特殊的String类，和相关扩展API](https://mp.weixin.qq.com/s/HI6yklzR118G2Y-rJzl47g)|
 
-### JavaEE基础
+### JavaSE并发篇
+
+|序号|文章标题|
+|:---:|:---|
+|01|[Java并发：线程的创建方式，状态周期管理](https://mp.weixin.qq.com/s/h0zuh364It-fDtQyYdzIwA)|
+|02|[Java并发：线程核心机制，基础概念扩展](https://mp.weixin.qq.com/s/nU5tbKuAiDf_LDu-8A4Etg)|
+|03|[Java并发：多线程并发访问，同步控制](https://mp.weixin.qq.com/s/xWhd3vgYPNp-Mm2lJpmFmA)|
+|04|[Java并发：线程间通信，等待/通知机制](https://mp.weixin.qq.com/s/WWbVjvkEqpddx605me9E-A)|
+|05|[Java并发：悲观锁和乐观锁机制](https://mp.weixin.qq.com/s/t6NshbuKwULPeLhTIhvmIg)|
+
+### JavaEE基础篇
 
 |序号|文章标题|
 |:---:|:---|

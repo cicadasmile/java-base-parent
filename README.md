@@ -16,6 +16,7 @@
 |03|[Java并发：多线程并发访问，同步控制](https://mp.weixin.qq.com/s/xWhd3vgYPNp-Mm2lJpmFmA)|
 |04|[Java并发：线程间通信，等待/通知机制](https://mp.weixin.qq.com/s/WWbVjvkEqpddx605me9E-A)|
 |05|[Java并发：悲观锁和乐观锁机制](https://mp.weixin.qq.com/s/t6NshbuKwULPeLhTIhvmIg)|
+|06|[Java并发：Lock机制下API用法详解](https://mp.weixin.qq.com/s/F7TC-71kEIpG6VD2eF6NIw)|
 
 ### JavaEE基础篇
 

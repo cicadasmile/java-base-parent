@@ -6,6 +6,7 @@
 |:---:|:---|
 |01|[Java基础：基本数据类型，核心点整理](https://mp.weixin.qq.com/s/YwrBptAd2SrWefFIiN86Yw)|
 |02|[Java基础：特殊的String类，和相关扩展API](https://mp.weixin.qq.com/s/HI6yklzR118G2Y-rJzl47g)|
+|03|[Java基础：流程控制语句，和算法应用](https://mp.weixin.qq.com/s/K7VqhbOJ7nMrFtfQgUKY0Q)|
 
 ### JavaSE并发篇
 

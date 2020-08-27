@@ -19,6 +19,7 @@
 |05|[Java并发：悲观锁和乐观锁机制](https://mp.weixin.qq.com/s/t6NshbuKwULPeLhTIhvmIg)|
 |06|[Java并发：Lock机制下API用法详解](https://mp.weixin.qq.com/s/F7TC-71kEIpG6VD2eF6NIw)|
 |07|[Java并发：Fork/Join框架机制详解](https://mp.weixin.qq.com/s/kk5q0mtBawCSa6365t3IWw)|
+|08|[Java并发：Executor线程池框架简介](https://mp.weixin.qq.com/s/jvOl-bxVC1e4L2O329OIyg)|
 
 ### JavaEE基础篇
 

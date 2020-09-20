@@ -1,5 +1,11 @@
 ## 参考文章
 
+### JVM虚拟机系列
+
+|序号|文章标题|
+|:---:|:---|
+|01|[虚拟机系列：JVM特点，基础结构与执行周期](https://mp.weixin.qq.com/s/6mODRDVrw6z1ok5hFWvi3A)|
+
 ### JavaSE基础篇
 
 |序号|文章标题|
@@ -62,3 +68,4 @@ Java基础类型，容器，并发，IO流，面向对象，Web编程等代码�
 |05|SpringBoot框架基础应用入门到进阶|[GitHub·点这里](https://github.com/cicadasmile/spring-boot-base)|[GitEE·点这里](https://gitee.com/cicadasmile/spring-boot-base)|☆☆☆☆|
 |06|SpringBoot框架整合开发常用中间件|[GitHub·点这里](https://github.com/cicadasmile/middle-ware-parent)|[GitEE·点这里](https://gitee.com/cicadasmile/middle-ware-parent)|☆☆☆☆☆|
 |07|数据管理、分布式、架构设计基础案例|[GitHub·点这里](https://github.com/cicadasmile/data-manage-parent)|[GitEE·点这里](https://gitee.com/cicadasmile/data-manage-parent)|☆☆☆☆☆|
+|08|大数据系列、存储、组件、计算等框架|[GitHub·点这里](https://github.com/cicadasmile/big-data-parent)|[GitEE·点这里](https://gitee.com/cicadasmile/big-data-parent)|☆☆☆☆☆|

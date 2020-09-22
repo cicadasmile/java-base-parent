@@ -5,6 +5,7 @@
 |序号|文章标题|
 |:---:|:---|
 |01|[虚拟机系列：JVM特点，基础结构与执行周期](https://mp.weixin.qq.com/s/6mODRDVrw6z1ok5hFWvi3A)|
+|02|[虚拟机系列：JVM类加载机制](https://mp.weixin.qq.com/s/buJo4c2K_9Y7qRUEp_l2kg)|
 
 ### JavaSE基础篇
 

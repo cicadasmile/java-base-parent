@@ -6,6 +6,8 @@
 |:---:|:---|
 |01|[虚拟机系列：JVM特点，基础结构与执行周期](https://mp.weixin.qq.com/s/6mODRDVrw6z1ok5hFWvi3A)|
 |02|[虚拟机系列：JVM类加载机制](https://mp.weixin.qq.com/s/buJo4c2K_9Y7qRUEp_l2kg)|
+|03|[虚拟机系列：JVM运行时数据区](https://mp.weixin.qq.com/s/CMvhvV5kwzijq2t9eqlsoA)|
+|04|[虚拟机系列：JVM执行引擎和垃圾回收](https://mp.weixin.qq.com/s/yN3q038pFnKN1hnBgO_Y6g)|
 
 ### JavaSE基础篇
 

@@ -46,6 +46,7 @@
 |序号|文章标题|
 |:---:|:---|
 |01|[编程体系结构：Java编程基础](https://mp.weixin.qq.com/s/8ZQdT8Gwyax51tV2yLYbBg)|
+|02|[编程体系结构：Java异常体系](https://mp.weixin.qq.com/s/yHCC-MwFtDda_y817CV2XA)|
 
 持续更新中...
 

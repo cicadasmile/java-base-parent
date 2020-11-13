@@ -49,6 +49,7 @@
 |02|[编程体系结构：Java异常体系](https://mp.weixin.qq.com/s/yHCC-MwFtDda_y817CV2XA)|
 |03|[编程体系结构：Java集合容器](https://mp.weixin.qq.com/s/Bx_vusOPzyvg8EDwoubAOA)|
 |04|[编程体系结构：JavaIO流文件管理](https://mp.weixin.qq.com/s/EakhE835U-0v9diDRayspw)|
+|05|[编程体系结构：Java多线程并发](https://mp.weixin.qq.com/s/xCJlBFg9_wOmJz_THBNNeA)|
 
 持续更新中...
 

@@ -19,6 +19,8 @@
         <module>model-multy-thread</module>
         <!-- 时间与日期 -->
         <module>model-date-time</module>
+        <!-- 函数式编程 -->
+        <module>model-func-program</module>
     </modules>
 
 

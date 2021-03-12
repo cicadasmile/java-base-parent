@@ -23,6 +23,7 @@
 |02|[Java基础：特殊的String类，和相关扩展API](https://mp.weixin.qq.com/s/HI6yklzR118G2Y-rJzl47g)|
 |03|[Java基础：流程控制语句，和算法应用](https://mp.weixin.qq.com/s/K7VqhbOJ7nMrFtfQgUKY0Q)|
 |04|[Java基础：日期与时间API用法详解](https://mp.weixin.qq.com/s/6faAo0ld65pnWuJKE2Ccsg)|
+|05|[Java基础：函数式编程概念和应用](https://mp.weixin.qq.com/s/UK_wgBw1raaoGDSaxMyPqg)|
 
 ### JavaSE并发篇
 
